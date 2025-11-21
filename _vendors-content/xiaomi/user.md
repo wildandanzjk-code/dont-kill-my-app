@@ -1,8 +1,8 @@
----
+1.21
 manufacturer: 
     - xiaomi
 
----
+danzx
 
 ### App pinning / App locking
 
